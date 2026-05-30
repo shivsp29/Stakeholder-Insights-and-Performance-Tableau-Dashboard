@@ -7,7 +7,7 @@ An interactive Tableau dashboard designed to analyze stakeholder performance, bu
 ## Dashboard Preview
 
 ![Stakeholder-Insights-and-Performance-Tableau-Dashboard
-](Stakeholder_Insights_Dashboard.png)
+](Stakeholder%20Insights%20Dashboard.png)
 
 ## Live Dashboard
 View on Tableau Public:
