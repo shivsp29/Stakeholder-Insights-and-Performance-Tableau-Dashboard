@@ -4,6 +4,9 @@ Interactive Tableau dashboard for stakeholder performance tracking, KPI monitori
 ## Project Overview
 An interactive Tableau dashboard designed to analyze stakeholder performance, business KPIs, trends, and operational insights through dynamic visualizations.
 
+## KPI Requirement Document
+Please refer the document "Stakeholder Insights and Performance Dashboard.docx" to details related to KPI building. 
+
 ## Dashboard Preview
 
 ![Stakeholder-Insights-and-Performance-Tableau-Dashboard
